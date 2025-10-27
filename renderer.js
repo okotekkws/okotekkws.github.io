@@ -1,4 +1,4 @@
-import { robaczkoweShoty } from "./szoty.js";
+import { szoty } from "./szoty.js";
 
 console.log("szoty.js");
 
